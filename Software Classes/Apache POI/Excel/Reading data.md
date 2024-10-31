@@ -58,7 +58,7 @@ import java.util.logging.Logger;
 private static final Logger logger = Logger.getLogger(FileHandler.class.getName());
 
 private FileInputStream file = null;
-String filePath = "folde/file.xlsx";
+String filePath = "folder/file.xlsx";
 
 try {  
     file = new FileInputStream(filePath);  
