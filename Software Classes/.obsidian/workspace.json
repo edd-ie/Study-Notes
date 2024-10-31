@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "a9f9c468684fad15",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5a74aef6efadaa1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea956e02bbb15beb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apache POI/Excel/Reading data.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reading data"
+            }
+          },
+          {
+            "id": "0dfc2292deec3f53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apache POI/Excel/Writing Data.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Writing Data"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "438a2d5b04a588db",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7a5dfb494f7e2c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6636977baa09786a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "86abd1a3b199e214",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "da657dd375a87b4e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "52ba444fd0fdee14",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fce2ec4783dca4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0273c2e40bcde9e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Apache POI/Excel/Reading data.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Reading data"
+            }
+          },
+          {
+            "id": "ed5d83971d04ddc4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Apache POI/Excel/Reading data.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Reading data"
+            }
+          },
+          {
+            "id": "ffc8090e7a808c45",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "24eb52c361b82dab",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Apache POI/Excel/Reading data.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Reading data"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0dfc2292deec3f53",
+  "lastOpenFiles": [
+    "Apache POI/Excel/Reading data.md",
+    "Apache POI/Excel/Writing Data.md",
+    "().md",
+    "Apache POI/Excel",
+    "Untitled",
+    "Welcome.md",
+    "Apache POI"
+  ]
+}
